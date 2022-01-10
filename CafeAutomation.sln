@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeAutomationCodeFirst", "CafeAutomationCodeFirst\CafeAutomationCodeFirst.csproj", "{52618D32-1957-4F43-AB60-2F6C008208CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52618D32-1957-4F43-AB60-2F6C008208CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52618D32-1957-4F43-AB60-2F6C008208CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52618D32-1957-4F43-AB60-2F6C008208CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52618D32-1957-4F43-AB60-2F6C008208CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87631B85-A3AE-4777-9C95-767752EB1523}
+	EndGlobalSection
+EndGlobal
